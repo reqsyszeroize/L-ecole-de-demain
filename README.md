@@ -1,6 +1,6 @@
 # L-ecole-de-demain
 
-Salut a tous et a toutes evidemment on le laisse personne sur le bord de la route (celui qui a cette ref est un beauf),
+Salut a tous et a toutes evidemment on ne laisse personne sur le bord de la route (celui qui a cette ref est un beauf),
 En tout cas bienvenue sur cet espace de travail github dédié, vous le savez a NOTRE PROJET. 
 
 ICI vous retrouverez : 
