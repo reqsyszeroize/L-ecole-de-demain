@@ -1,4 +1,4 @@
-# Resscources
+# Ressources
 
 Ce qu'on sait : 
 
