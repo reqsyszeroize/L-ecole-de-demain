@@ -1,0 +1,8 @@
+rouge = cp 
+bleu = ce1 
+blanc = ce2 
+jaune = CM1 
+orange = CM2 
+noir = fablab 
+
+Total de 44 tours dans école et 16 laptop 
