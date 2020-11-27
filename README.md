@@ -15,3 +15,10 @@ Chaque école routée par box ADSL SFR avec débit moyen de 10Mbs
 1 pc fixe bibliothèque 
 1pc fixe bureau directeur 
 11 pc fixes au fonds des classes de cm1 cm2 et CE2 
+
+rouge = cp 
+bleu = ce1 
+blanc = ce2 
+jaune = CM1 
+orange = CM2 
+noir = fablab 
